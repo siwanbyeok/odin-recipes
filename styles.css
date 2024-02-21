@@ -1,0 +1,19 @@
+* {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    line-height: 30px;
+}
+
+.main-div {
+    width: 700px;
+    margin: auto;
+}
+
+.unordered-list {
+    list-style: none;
+    padding-left: 0px;
+}
+
+ol li {
+    text-align: left;
+}
